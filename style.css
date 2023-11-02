@@ -1,6 +1,4 @@
-* {
-    background-color: #D3A67D;
-}
+
 
 .center {
     display: block;
@@ -12,3 +10,13 @@
 
 }
 
+h2 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.accordion-body{
+    font-family: 'Macondo', cursive;
+}
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'Macondo', cursive;
